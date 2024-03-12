@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://infoxid.github.io/sitemap.txt
